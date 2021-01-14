@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle rpg-dice",
+        "command": "rpg-dice:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rpg-dice",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "rpg-dice:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
