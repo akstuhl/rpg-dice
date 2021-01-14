@@ -1,7 +1,7 @@
 {
   "name": "rpg-dice",
   "main": "./lib/rpg-dice",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generate inline dice rolls for an RPG like DnD",
   "keywords": [],
   "activationCommands": {
