@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle rpg-dice",
-        "command": "rpg-dice:toggle"
+        "label": "Roll RPG dice",
+        "command": "rpg-dice:roll-dice"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "rpg-dice",
+          "label": "RPG Dice",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "rpg-dice:toggle"
+              "label": "Roll dice",
+              "command": "rpg-dice:roll-dice"
             }
           ]
         }
