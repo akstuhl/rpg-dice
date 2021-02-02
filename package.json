@@ -3,7 +3,12 @@
   "main": "./lib/rpg-dice",
   "version": "0.2.0",
   "description": "Generate inline dice rolls for an RPG like DnD",
-  "keywords": [],
+  "keywords": [
+    "RPG",
+    "dice",
+    "game",
+    "dungeons-and-dragons"
+  ],
   "activationCommands": {
     "atom-workspace": "rpg-dice:roll"
   },

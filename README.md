@@ -6,4 +6,4 @@ This package for the Atom text editor lets you generate dice rolls and stats for
 
 The script will try to use selected text or text around the cursor to infer how many dice of how many sides to roll and what modifier to add. For example, try hitting <kbd class="platform-all">Ctrl+R</kbd> when the cursor is on `2d6`, `[-1]`, `(3d4 + 7)`, or `(stat)`. You can repeat a roll by keeping the result selected. The default numbers of dice and sides to use are configurable in settings.
 
-Thank you to [JLDesignNetwork](https://github.com/JLDesignNetwork) for adding stat generation along with several other improvements. See their [notes](https://github.com/akstuhl/rpg-dice/pull/3#issuecomment-762984940) for an explanation of stat features.
+Thank you to [JLDesignNetwork](https://github.com/JLDesignNetwork) for adding ability score pool generation along with several other improvements. See their [notes](https://github.com/akstuhl/rpg-dice/pull/3#issuecomment-762984940) and the package settings for more on stat features.
