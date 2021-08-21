@@ -1,6 +1,6 @@
 # 🎲 RPG Dice Rolls in Atom 🧙
 
-This package for the Atom text editor lets you generate dice rolls and stats for tabletop games like Dungeons & Dragons directly in a text document. Use the key binding <kbd class="platform-all">Ctrl+R</kbd> or the command `rpg-dice:roll-dice` to append a dice roll result to the end of the current line.
+This package for the Atom text editor lets you generate dice rolls and stats for tabletop games like Dungeons & Dragons directly in a text document. Use the key binding <kbd class="platform-all">Ctrl+R</kbd> or the command `rpg-dice:roll` to append a dice roll result to the end of the current line.
 
 <a href="https://raw.githubusercontent.com/akstuhl/rpg-dice/main/asset/demo.gif" target="_blank">![demo.gif](https://raw.githubusercontent.com/akstuhl/rpg-dice/main/asset/demo.gif)</a>
 

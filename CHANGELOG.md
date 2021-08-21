@@ -7,3 +7,6 @@
 
 ## 0.2.1 - Fate/Fudge dice
 * Added ability to roll Fate/Fudge-style dice using 'F' in place of sides specifier.
+
+## 0.2.3 - Bug fix
+* Corrected command name in menus and readme
