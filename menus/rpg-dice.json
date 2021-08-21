@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Roll RPG dice",
-        "command": "rpg-dice:roll-dice"
+        "command": "rpg-dice:roll"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Roll dice",
-              "command": "rpg-dice:roll-dice"
+              "command": "rpg-dice:roll"
             }
           ]
         }
